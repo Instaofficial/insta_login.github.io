@@ -48,7 +48,7 @@ body{
 	border-width: 4px;
 	border-color: black;
 	background: none;
-	margin-left: -150px;
+	margin-left: -177px;
 	border-radius: 15px;
 }
 
@@ -57,7 +57,7 @@ body{
 	width: 700px;
 	height: 90px;
 	border: 0;
-	margin-left: -140px;
+	margin-left: -173px;
 	color: #fff;
 	background: #0195F7;
 	margin-top: 100px;
@@ -88,7 +88,7 @@ form .option{
 	width: 300px;
 	height: 4px;
 	background: #b6b6b6;
-	left: 190px;
+	left: 162px;
 	margin-top: 30px;
 	transform: translateY(-50%);
 	border-radius: 50px;
@@ -99,7 +99,7 @@ form .option{
 	width: 300px;
 	height: 4px;
 	background: #b6b6b6;
-	right: 80px;
+	right: 104px;
 	margin-top: -30px;
 	transform: translateY(-50%);
 	border-radius: 50px;
@@ -107,20 +107,20 @@ form .option{
 .wrapper a{
 	color: #1E8DD5;
 	font-size: 40px;
-	margin-left: 280px;
+	margin-left: 80px;
 	padding-top: 10px;
 
 }
 .or{
 	font-size: 50px;
-	padding-left: 50px;
+	padding-left: 27px;
 
 }
 
 .my-button{
 	text-align: center;
 	margin-top: 33px;
-	margin-left: -270px;
+	margin-left: -293px;
 	width: 300 px;
 	font-size: 64px;
 	background-color: #0195F7;
@@ -148,7 +148,7 @@ p {
 .option{
 	font-size: 45px;
 	margin-top: 90px;
-	margin-left: 285px;
+	margin-left: 244px;
 }
 .option a{
 	color: #1E8DD5;
@@ -160,10 +160,12 @@ p {
 	background: #b6b6b6;
 	display: flex;
 	font-size: 100px;
-	margin-top: 250px;
+	margin-top: 150px;
 }
 .image{
-	box-sizing: 50px;
-	margin-left: 290px;
+	box-sizing: 150px;
+	margin-left: 230px;
+	margin-top: -40px;
+	margin-bottom: 40px;
 	
 }
